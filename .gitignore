@@ -1,0 +1,9 @@
+.env
+temp.*
+.DS_Store
+
+dataset/img/*.png
+dataset/img_low/*.png
+!dataset/img/?_0.png
+!dataset/img/?_120.png
+!dataset/img_low/?.png
